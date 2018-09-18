@@ -50,8 +50,17 @@ user@epk428-14:~$ mv *.txt Music/
 user@epk428-14:~$ ls -l  (rediget faili)
 
  rm *3*.txt( dzest noteiktu failu)
-
-
-
 nano README.md ( ēlektroniska klāde)
+
+python
+vars()   (lai paradit kas ir mape)
+exit()   (iziet no pyton)
+
+user@epk428-14:~/RTR105$ nano git-upload
+user@epk428-14:~/RTR105$ ./git-upload
+user@epk428-14:~/RTR105$ ./git-upload 20180918_14_10   (ieiet sava GitHub cauru to)
+(ja viss labi tad buss (master -> master))
+
+nano create_in.sh (var uztaisit tadu ka mapi)
+
 
