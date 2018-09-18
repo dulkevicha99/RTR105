@@ -53,3 +53,5 @@ user@epk428-14:~$ ls -l  (rediget faili)
 
 
 
+nano README.md ( ēlektroniska klāde)
+
