@@ -56,6 +56,8 @@ python
 vars()   (lai paradit kas ir mape)
 exit()   (iziet no pyton)
 
+ipython
+
 user@epk428-14:~/RTR105$ nano git-upload
 user@epk428-14:~/RTR105$ ./git-upload
 user@epk428-14:~/RTR105$ ./git-upload 20180918_14_10   (ieiet sava GitHub cauru to)
