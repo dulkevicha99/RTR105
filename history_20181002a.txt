@@ -1,0 +1,38 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/dulkevicha99/RTR105
+    4  \cd RTR105
+    5  git clone https://github.com/dulkevicha99/RTR105
+    6  git clone https://github.com/dulkevica99/RTR105
+    7  ls -l
+    8  ls -a
+    9  pwd
+   10  history
+   11  cd
+   12  pwd
+   13  git clone https://github.com/dulkevica99/RTR105
+   14  git clone https://github.com/dulkevicha99/RTR105
+   15  ls -l
+   16  cd RTR105/
+   17  firefox 
+   18  idle &
+   19  python\
+   20  python
+   21  cd RTR105
+   22  https://github.com/dulkevicha99/RTR105
+   23  https://github.com/dulkevicha99/RTR105/portal
+   24  git clone https://github.com/dulkevicha99/RTR105
+   25  pwd
+   26  git clone https://github.com/dulkevicha99/RTR105
+   27  history
+   28  idle &
+   29  ls
+   30  ls -l
+   31  ls-l
+   32  ls -l
+   33  nano dgr
+   34  nano dgr_20181002.py
+   35  ls -l
+   36  cat dgr_20181002.py 
+   37  ls -l
+   38  history > history_20181002a.txt
