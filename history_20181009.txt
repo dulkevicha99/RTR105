@@ -1,0 +1,26 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  idle &
+    4  cd RTR105
+    5  git clone https://github.com/dulkevica99/RTR105
+    6  cd RTR105
+    7  git clone https://github.com/dulkevica99/RTR105
+    8  cd RTR105
+    9  ls -l
+   10  cd RTR105
+   11  ls -l
+   12  git clone https://github.com/dulkevica99
+   13  git clone https://github.com/dulkevica99/RTR105
+   14  cd RTR105
+   15  git clone https://github.com/dulkevicha99/RTR105
+   16  cd RTR105
+   17  idle &
+   18  cat dgr_20180910
+   19  cd 
+   20  echo $PATH
+   21  ./git-upload  20181009_13_55
+   22  history
+   23  cd RTR105
+   24  history
+   25  ls -l
+   26  history > history_20181009.txt
