@@ -37,10 +37,10 @@ print("My sin:", yy)
 
 print("         500")
 print("         -----")
-print("         \\             k+1  2*k")
-print("          \\         (-1) * x")
-print"sin(",x,")  =>      -----------------"
-print("          /          2*(2*k)!")
+print("         \\                           k+1  2*k")
+print("          \\                        (-1) * x")
+print"sin(x/2)*sin(x/2)=",x,"  =>     -----------------"
+print("          /                         2*(2*k)!")
 print("         /")
 print("         -----")
 print("          k=1")
