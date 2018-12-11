@@ -7,7 +7,7 @@ def f(x):
     return sin(x/2)*sin(x/2)
 k=0
 a= -1
-b=1
+b= 1
 
 funa =f(a)
 funb =f(b)
@@ -22,6 +22,7 @@ deltax= 0.0001
 while(fabs(b-a)> deltax):
     k=k+1
     x=(a+b)/2.;funx=f(x)
+    print(a,b,x)
     if(funa*funx<0.):
         b=x
     else:
